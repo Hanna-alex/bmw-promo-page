@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
 
-  /*
+  
    featureLinkElems.forEach((btn, index) => {
      btn.addEventListener('click', () => {
        featureLinkElems.forEach((featureLinkElem) => {
@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
        btn.classList.add('feature__link_active');
      })
    })
-  */
+  
 
 
 
